@@ -1,4 +1,4 @@
-import { BadRequestError } from "../utils/customErrors";
+// import { BadRequestError } from "../utils/customErrors";
 import AdminService from "./service";
 
 export default class AdminController {
